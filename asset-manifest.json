@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/peliculas/static/css/main.5090ca54.css",
+    "main.js": "/peliculas/static/js/main.25e9427f.js",
+    "static/js/787.716eef48.chunk.js": "/peliculas/static/js/787.716eef48.chunk.js",
+    "static/media/nulshock bd.otf": "/peliculas/static/media/nulshock bd.5f8b79a5cb66b510d8eb.otf",
+    "index.html": "/peliculas/index.html",
+    "main.5090ca54.css.map": "/peliculas/static/css/main.5090ca54.css.map",
+    "main.25e9427f.js.map": "/peliculas/static/js/main.25e9427f.js.map",
+    "787.716eef48.chunk.js.map": "/peliculas/static/js/787.716eef48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5090ca54.css",
+    "static/js/main.25e9427f.js"
+  ]
+}
